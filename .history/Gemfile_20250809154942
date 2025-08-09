@@ -27,9 +27,6 @@ group :development, :test do
   gem "factory_bot_rails"
   gem "faker"
 
-  gem "awesome_print"
-  gem "table_print"
-
   gem "brakeman", require: false
   gem "rubocop-rails-omakase", require: false
 end
